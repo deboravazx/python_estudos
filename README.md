@@ -58,7 +58,7 @@ Arquivos e scripts diversos:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/mrdebora/python_estudos.git
+git clone https://github.com/deboravazx/python_estudos.git
 cd python_estudos
 ```
 
